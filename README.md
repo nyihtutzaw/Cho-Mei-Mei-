@@ -16,7 +16,7 @@
  
 ## Screenshots
  
- ![image] (https://user-images.githubusercontent.com/20449145/69600218-3d426680-103e-11ea-878e-b10a7d0b82a3.PNG)
+    ![alt text] (https://user-images.githubusercontent.com/20449145/69600218-3d426680-103e-11ea-878e-b10a7d0b82a3.PNG)
 
 
 ## Getting Started
