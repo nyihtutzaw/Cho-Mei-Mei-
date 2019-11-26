@@ -12,7 +12,12 @@
     3. Data passing between widgets
 
     4. Reusable of Widgets
-
+ 
+ 
+## Screenshots
+ 
+   
+   ![alt text](https://user-images.githubusercontent.com/20449145/69600218-3d426680-103e-11ea-878e-b10a7d0b82a3.PNG "Logo Title Text 1")
 
 ## Getting Started
 
